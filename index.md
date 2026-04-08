@@ -6,7 +6,6 @@
 **Name**: 오기민  
 **Email**: minioh0129@email.com  
 **GitHub**: https://github.com/minioh-kw  
-**Portfolio**: https://minioh-kw.github.io/  
 
 
 ## About me
