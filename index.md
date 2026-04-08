@@ -4,7 +4,7 @@
 ## Contact
 
 **Name**: 오기민  
-**Email**: minioh0129@email.com  
+**Email**: minioh0129@gmail.com  
 **GitHub**: https://github.com/minioh-kw  
 
 
