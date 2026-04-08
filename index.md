@@ -6,6 +6,7 @@
 **Name**: 오기민  
 **Email**: minioh0129@gmail.com  
 **GitHub**: https://github.com/minioh-kw  
+**Portfolio**: https://github.com/minioh-kw/Future_CV  
 
 
 ## About me
@@ -76,11 +77,6 @@
 | 유사 사건 검색 시스템   |   2027.01~ 2027.03  |
 | 클릭수 기반 인기도 예측 모델   |   2027.05~ 2027.07   |
 | 동물보호소 어플리케이션  |   2028.01~ 2028.03   |  
-
-
-## 포트폴리오
-
-해당 [링크](https://github.com/minioh-kw/Future_CV)를 통해 포트폴리오를 확인할 수 있습니다.
 
 
 ## 추천인
